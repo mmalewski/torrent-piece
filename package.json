@@ -13,7 +13,7 @@
   "dependencies": {},
   "devDependencies": {
     "airtap": "^2.0.2",
-    "standard": "*",
+    "standard": ">=13.1.0",
     "tape": "^4.0.0"
   },
   "keywords": [
